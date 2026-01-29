@@ -1,6 +1,6 @@
 # Professional Resume using HTML
 
-Here is a professional resume of Arkaprava Chakraborty using only HTML. Feel free to reachout if you have any oppurtanuity for him.
+Here is a professional resume of Arkaprava Chakraborty using only HTML. Feel free to reachout if you have any oppurtanuity.
 
 # Live link of the Resume
 [Click Here to see the resume](https://arkapravachakraborty.github.io/01HTMLRESUME/)
